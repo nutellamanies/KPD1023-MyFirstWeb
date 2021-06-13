@@ -35,10 +35,11 @@
     <img src="images/selfies.jpeg" width="100%">
     </td>
     <td>
-    <ol>
+    <ul>
     <li>Pensyarah</li>
     <li>Psychatrist</li>
-    </ol>
+    <li>Videographer</li>
+    </ul>
     </td>
     </tr>
   </table>
